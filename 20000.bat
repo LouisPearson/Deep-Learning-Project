@@ -1,0 +1,1 @@
+mongod --replSet "lab4rs" --bind_ip localhost --port 20000 --dbpath ./db2data
